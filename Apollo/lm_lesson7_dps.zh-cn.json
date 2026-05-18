@@ -1574,7 +1574,7 @@
   "ID": "a5dc9538-1c9f-4436-9a61-51ee9e438615",
   "Title": "第7课 - The Descent Engine",
   "Description": "下降推进发动机（DPS）是主推进系统（MPS）的一部分，用于执行到月球表面的下降。在本课中，我们将学习如何给它加压，并学习操作它的基础知识。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson we will learn about the DPS. The Descent Propulsion Engine (DPS) is part of the Main Propulsion System (MPS), and is used to perform the descent to the Lunar Surface. In this lesson, we will learn how to pressurize it, and learn the basics of operating it.",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\r\n\r\n在本课程中，我们将学习DPS。下降推进发动机（DPS）是主推进系统（MPS）的一部分，用于执行向月球表面的下降。在本课程中，我们将学习如何对其进行加压，并学习操作它的基础知识。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

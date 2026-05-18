@@ -61,7 +61,7 @@
   "ID": "73a157fb-f251-40be-bc0c-f2456a6b4171",
   "Title": "阿波罗 SLV - 主乘组进入",
   "Description": "无指定任务的自由飞行。在T-1小时主乘组进入时加载到发射台。",
-  "BriefingText": "简报\r\n\r\nNo assigned mission.",
+  "BriefingText": "简报\r\n\r\n无指定任务。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 100.0,

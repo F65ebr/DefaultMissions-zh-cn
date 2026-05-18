@@ -61,7 +61,7 @@
   "ID": "e976b5ef-b29e-44e9-b1d9-07e2f1ac8efa",
   "Title": "CSM/LM 地球轨道",
   "Description": "无指定任务的自由飞行。",
-  "BriefingText": "简报\r\n\r\nNo assigned mission.",
+  "BriefingText": "简报\r\n\r\n无指定任务。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 100.0,

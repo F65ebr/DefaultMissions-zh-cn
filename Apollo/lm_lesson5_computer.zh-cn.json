@@ -1862,7 +1862,7 @@
   "ID": "49b350e8-13bb-447d-97c3-730e225de2c0",
   "Title": "第5课 - Lunar Guidance Computer",
   "Description": "在前面的课程中，你学习了RCS系统。本课我们将学习如何操作计算机及其一些基本功能。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson, we will start using the Lunar Guidance Computer (LGC). The LGC is a highly sophisticated computer used for guidance, navigation and control. It communicates with many of the subsystems in the Lunar Module, and will be one of your primary tools during a lunar flight.",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\r\n\r\n在本课程中，我们将开始使用月球制导计算机（LGC）。LGC是一台高度精密的计算机，用于制导、导航和控制。它与登月舱中的许多子系统通信，将是你在登月飞行中的主要工具之一。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

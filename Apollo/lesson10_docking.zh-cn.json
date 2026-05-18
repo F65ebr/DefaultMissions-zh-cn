@@ -1934,7 +1934,7 @@
   "ID": "cf2ee62e-8a1b-43e0-9ca1-3ce181eb5913",
   "Title": "第10课 - 换位与对接",
   "Description": "换位与对接机动包括将阿波罗指令/服务舱（CSM）飞船与SIVB运载火箭分离，将其调转方向，并将其头部与阿波罗登月舱（LM）对接。然后从适配器中提取登月舱。",
-  "BriefingText": "简报\r\n\r\nIn this lesson, you will learn how to separate the CSM from the Launch Vehicle (LV) SIVB, next you will use the CSM's translation thrusters for translating forward by moving gently the CSM away at a safe distance from the LM and the SIVB (no more than 100 feet), then you will turn around by pitching up the CSM at 180° until facing the Lunar Module (LM). after a little Roll to your left you will align the Lunar module Aim Crosshair with the Apollo CSM COAS, once it is aligned perfectly, you will translate forward until capturing the Lunar Module (LM). finally you will release the Lunar Module from the Launch Vehicle (LV) SIVB, then gently translate backward until separation is successful.",
+  "BriefingText": "简报\r\n\r\n在本课程中，你将学习如何将CSM从运载火箭（LV）SIVB上分离，接下来使用CSM的平移推进器缓慢地将CSM移动到距LM和SIVB安全距离（不超过100英尺），然后将CSM向上俯仰180°直到面向登月舱（LM）。在向左稍微滚转后，将登月舱目标十字线与阿波罗CSM的COAS对准，一旦完全对准，向前平移直到捕获登月舱（LM）。最后从运载火箭（LV）SIVB上释放登月舱，然后缓慢向后平移直到成功分离。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 180.0,

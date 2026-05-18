@@ -2114,7 +2114,7 @@
   "ID": "d81c4490-aa4d-4d15-b69c-a581d94e38e3",
   "Title": "第4课 - Reaction Control System",
   "Description": "Reaction Control System用于改变登月舱的姿态以及进行平移。本课教你RCS系统的基础知识，而飞行模式将在后续课程中介绍。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson, we will go deeper into the Reaction Control System (RCS), and how it's used to control the spacecraft.",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\r\n\r\n在本课程中，我们将深入学习反作用控制系统（RCS），以及它如何用于控制航天器。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

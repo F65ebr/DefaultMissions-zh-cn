@@ -61,7 +61,7 @@
   "ID": "2f56348e-eeab-488b-b9d0-73d383bdb605",
   "Title": "阿波罗 SLV - 发射 (T-25分钟)",
   "Description": "无指定任务的自由飞行。在T-25分钟时加载到发射台。飞行前检查单仍需完成。",
-  "BriefingText": "简报\r\n\r\nNo assigned mission.",
+  "BriefingText": "简报\r\n\r\n无指定任务。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 100.0,

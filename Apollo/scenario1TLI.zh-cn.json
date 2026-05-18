@@ -61,7 +61,7 @@
   "ID": "def84279-617a-492b-afcf-79756ddd7dfe",
   "Title": "跨月注入",
   "Description": "CSM/SIVB在地球轨道上，必须为TLI做好准备。",
-  "BriefingText": "简报\r\n\r\nPerform a TLI.",
+  "BriefingText": "简报\r\n\r\n执行地月转移入射（TLI）。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

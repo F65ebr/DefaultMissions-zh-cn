@@ -61,7 +61,7 @@
   "ID": "840c3e31-48d9-4a3e-9e07-574fa9ab8b2f",
   "Title": "登月舱分离",
   "Description": "LM与CSM对接。它需要被激活，然后下降轨道注入变轨可以将组合体带入适合动力下降和着陆的轨道。",
-  "BriefingText": "简报\r\n\r\n1)Activate the Lunar Module\n2)Perform a Descent Orbit Injection burn (reduce Pe to 15km altitude).\n2)Undock the Lunar Module\n3)Perform a Powered Descent and Landing.",
+  "BriefingText": "简报\r\n\r\n1) 激活登月舱\n2) 执行下降轨道注入点火（将近地点降至15公里高度）\n2) 分离登月舱\n3) 执行动力下降和着陆。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

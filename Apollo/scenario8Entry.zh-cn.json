@@ -61,7 +61,7 @@
   "ID": "7cfd1374-61a9-42a6-9505-341d149d3538",
   "Title": "再入",
   "Description": "指挥/服务舱正在从月球返回的旅程中，距离再入约1小时30分钟。",
-  "BriefingText": "简报\r\n\r\nPerform an entry and splashdown on Earth from a Lunar Trajectory.",
+  "BriefingText": "简报\r\n\r\n从月球轨道执行再入并溅落在地球上。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

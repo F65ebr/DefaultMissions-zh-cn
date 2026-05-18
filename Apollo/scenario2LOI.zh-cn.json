@@ -61,7 +61,7 @@
   "ID": "ff17814f-caf6-4af7-b46a-89484ca6372a",
   "Title": "月球轨道插入",
   "Description": "CSM/LM正在前往月球的轨道上，必须为月球轨道注入做好准备。",
-  "BriefingText": "简报\r\n\r\nPerform a LOI.",
+  "BriefingText": "简报\r\n\r\n执行月球轨道入射（LOI）。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

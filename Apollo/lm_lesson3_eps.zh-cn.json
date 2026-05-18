@@ -2330,7 +2330,7 @@
   "ID": "770eaf88-422c-4f00-8e98-4e834124709a",
   "Title": "第3课 - 电源系统",
   "Description": "在前面的课程中，你学习了如何进入LM以及如何找到激活各子系统的各种检查单。本课你将学习Electrical Power Subsystem的基础工作原理。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson, we will go deeper into the Electrical Power Subsystem (EPS). We will learn about the various power sources available, and their modes of operation.",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\r\n\r\n在本课程中，我们将深入学习电源子系统（EPS）。我们将了解各种可用的电源及其工作模式。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

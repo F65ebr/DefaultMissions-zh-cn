@@ -1934,7 +1934,7 @@
   "ID": "e0bff9a0-20f1-43fa-b4ec-0592d8457fcd",
   "Title": "第3课 - 电力",
   "Description": "电力子系统（EPS）由航天器上提供电力所需的系统、反应物和设备组成。主要电源是三个燃料电池、三个电池和两个火工品电池。电力通过多个直流总线和交流总线分配。",
-  "BriefingText": "简报\r\n\r\nIn this lesson, we will learn about the Electrical Power Subsystem of the Apollo Spacecraft. The electrical power subsystem (EPS) consists of the systems, reactants and equipment required to provide electrical power onboard the spacecraft. The main power sources are three Fuel Cells, three batteries and two pyro batteries. The power is distributed through several DC-busses and AC-busses.\r\n\r\nThe power is distributed through several DC-busses and AC-busses. AC power is generated from DC through Inverters.",
+  "BriefingText": "简报\r\n\r\n在本课程中，我们将学习阿波罗航天器的电源子系统。电源子系统（EPS）由航天器上提供电力所需的系统、反应物和设备组成。主要电源是三个燃料电池、三个电池和两个火工电池。电力通过多个直流总线和交流总线进行分配。\r\n\r\n电力通过多个直流总线和交流总线分配。交流电由直流通过逆变器产生。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 180.0,

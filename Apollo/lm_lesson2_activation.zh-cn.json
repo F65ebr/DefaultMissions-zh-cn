@@ -2294,7 +2294,7 @@
   "ID": "34c14a88-d5c0-4c87-8d4d-9e5b99f75be3",
   "Title": "第2课 - Subsystem Activation",
   "Description": "在本课中，你将学习如何激活登月舱的主要系统，并完成设置所需的检查单。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson, will will take a glance at the subsystems activation checklist, and run the required parts to get the Lunar Module into an active state. There are many checklists use for the activation, and will touch almost every system the Lunar Module has to offer. \r\n\r\nThis lesson will take you through the general understanding of the most important parts. The details will be covered in the next lessons, but it is highly recommended that you have read the Reentry Flight Manual for the Lunar Module to understand what the systems are doing in details. ",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\r\n\r\n在本课程中，我们将浏览子系统激活检查清单，并运行所需的部分以使登月舱进入活跃状态。激活涉及许多检查清单，几乎涉及登月舱提供的每一个系统。\r\n\r\n本课程将带你了解最重要部分的整体概况。细节将在后续课程中涵盖，但强烈建议你阅读登月舱再入飞行手册，以详细了解各系统的作用。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

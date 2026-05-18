@@ -1790,7 +1790,7 @@
   "ID": "16b9bb0c-64f7-4382-ad03-c9d5879728ac",
   "Title": "第6课 - 服务舱推进",
   "Description": "Service Propulsion系统用于在轨道上进行大的delta V变化。Service Module上巨大的钟形引擎就是该系统的喷管。",
-  "BriefingText": "简报\r\n\r\nThe service propulsion subsystem provides the impulse for all X-axis velocity changes (ΔVs) throughout a mission and the SPS abort capability after the launch escape tower is jettisoned. The SPS consists of a helium pressurization system, a propellant feed system, a propellant gauging and utilization system, and a rocket engine.\r\n\r\nIn this lesson, we will learn how it works, and how to operate it.\r\n\r\nGood luck!",
+  "BriefingText": "简报\r\n\r\n服务推进子系统为整个任务中所有X轴速度变化（ΔV）提供冲量，并在逃逸塔抛离后提供SPS紧急中止能力。SPS由氦气加压系统、推进剂供给系统、推进剂计量利用系统和火箭发动机组成。\r\n\r\n在本课程中，我们将学习它的工作原理以及如何操作它。\r\n\r\n祝你好运！",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 1.0,
   "TargetAp": 185.0,

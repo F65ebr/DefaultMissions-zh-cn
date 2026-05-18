@@ -61,7 +61,7 @@
   "ID": "73a157fb-f251-40be-bc0c-f2456a6b4171",
   "Title": "阿波罗 SLV - 地面人员，冷舱与暗舱 (T-4小时)",
   "Description": "无指定任务的自由飞行。",
-  "BriefingText": "简报\r\n\r\nNo assigned mission.",
+  "BriefingText": "简报\r\n\r\n无指定任务。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 240.0,
   "TargetAp": 100.0,

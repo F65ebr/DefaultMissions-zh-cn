@@ -1646,7 +1646,7 @@
   "ID": "a29f20ac-f30d-4870-9315-1aa673568825",
   "Title": "第1课 - Lunar Module Ingress",
   "Description": "欢迎来到登月舱学院。在这第一课中，我们将学习在建立对接后，如何从指挥舱进入登月舱。",
-  "BriefingText": "简报\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\nNote: All the Lunar Module lessons are considered advanced lessons, and require you to understand the mechanics of Reentry, and how to operate the Apollo Command Module.\r\n\r\nWelcome to the Lunar Module Academy, and the first lesson related to the Lunar Module.\r\n\r\nThe Lunar Module is a spacecraft designed to land two astronauts on the Moon. It will take the journey together with the Command and Service Module from launch to lunar orbit, where two astronauts will enter the Lunar Module, undock with the Command Module (operated by one astronaut alone), and perform the descent to the lunar surface, land, perform mission objectives, and then ascend back into lunar orbit to rendezvous and dock with the Command and Service Module again.\r\n\r\nIn this lesson, we will go through the steps needed to ingress into the Lunar Module from the Command Module. This involves pressurizing it, opening the hatch, and entering the Lunar Module.\r\nOnce the hatch is opened, all the flood lights in the Lunar Module will be illuminated so you can navigate inside it, and perform the setup.\r\n\r\nGood luck!",
+  "BriefingText": "简报\r\n\r\n教官：Patrick\n级别：高级\n注意：所有登月舱课程均为高级课程，需要你理解再入的机械原理以及如何操作阿波罗指令舱。\r\n\r\n欢迎来到登月舱学院，这是与登月舱相关的第一课。\r\n\r\n登月舱是专为将两名宇航员降落在月球上而设计的航天器。它将与指令/服务舱一同从发射到月球轨道，在月球轨道上两名宇航员进入登月舱，与指令舱（由一名宇航员单独操作）分离，执行向月球表面的下降、着陆、完成任务目标，然后上升返回月球轨道，再次与指令/服务舱交会对接。\r\n\r\n在本课程中，我们将完成从指令舱进入登月舱所需的步骤。这包括加压、打开舱门和进入登月舱。\n舱门打开后，登月舱内的所有泛光灯将点亮，以便你在内部导航并执行设置。\r\n\r\n祝你好运！",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 185.0,

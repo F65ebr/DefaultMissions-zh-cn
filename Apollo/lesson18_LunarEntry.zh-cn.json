@@ -242,7 +242,7 @@
   "ID": "614e0d70-4008-424e-b8be-bf8d0fcf965d",
   "Title": "第18课 - 月球再入",
   "Description": "月球再入发生在航天器从月球返回地球，必须在安全溅落前穿过大气层时。主要方面已在两节地球再入课程中涵盖，但你需要执行的检查清单有所不同。",
-  "BriefingText": "简报\r\n\r\nAtmospheric Entry from a Lunar trajectory, known as a Lunar Entry, means that you are on a path from the Moon to Earth and need to re-enter and splash down on Earth. Lunar Entry is slightly different from the Earth Entry. The Deorbit burn is not needed (it was part of TEI and Mid-Course Corrections), and the velocity will be greater. It is possible to skip out of the atmosphere if you are not careful. Aside from that, the procedures are very similar. Use the Lunar Entry checklists to prepare and execute the entry.",
+  "BriefingText": "简报\r\n\r\n从月球轨道进入大气层，称为月球再入，意味着你正从月球返回地球，需要再入大气层并溅落在地球上。月球再入与地球再入略有不同。不需要离轨点火（这已是TEI和中途修正的一部分），且速度会更大。如果不小心，可能会被大气层弹回太空。除此之外，程序非常相似。使用月球再入检查清单来准备和执行再入。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

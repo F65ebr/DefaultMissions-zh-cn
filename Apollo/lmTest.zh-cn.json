@@ -1,5 +1,5 @@
 {
-  "BriefingText": "简报\r\n\r\nThis mission is only for testing.",
+  "BriefingText": "简报\r\n\r\n此任务仅用于测试。",
   "CommandModulePilot": "Lars",
   "Description": "实验性登月舱的乘员现在处于月球轨道中，以执行系统测试。测试结束后任务将被删除。",
   "DisableDefaultAudioSFX": true,

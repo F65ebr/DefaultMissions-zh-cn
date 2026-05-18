@@ -1106,7 +1106,7 @@
   "ID": "a8d18098-1e24-49fc-9986-560ad5a08cef",
   "Title": "第9课 - Undocking",
   "Description": "在本课中，你将学习如何从登月舱分离。",
-  "BriefingText": "简报\r\n\r\nUndocking",
+  "BriefingText": "简报\r\n\r\n分离",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

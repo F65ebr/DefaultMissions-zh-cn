@@ -2366,7 +2366,7 @@
   "ID": "1a312690-a658-4b7b-8318-0ffc51bd1f33",
   "Title": "第8课 - Radars",
   "Description": "雷达是月球制导计算机以及其他导航设备用于降落在月球表面或在月面上升后与指挥舱对接的重要工具。在本课中，我们将简要了解它们。",
-  "BriefingText": "简报\r\n\r\nYou are in a circular 60 nmi by 35 nmi orbit around the moon.\r\n\r\nThis lesson will focus on the two radars onboard, the Landing Radar (LR) and the Rendezvous Radar (RR).\r\n\r\nDuring the landing phase and subsequent rendezvous phase, the LM uses radar navigational techniques to determine distance and velocity. Each phase uses a radar designed specifically for that phase. Both radars inform the astronaut and the computer concerning position and velocity relative to acquired target. During lunar landing, the target is the surface of the moon; during rendezvous, the target is the Command Module.\r\n\r\nIn this lesson, we will learn how to operate them.",
+  "BriefingText": "简报\r\n\r\n你正处于绕月球的60海里×35海里圆轨道中。\r\n\r\n本课程将重点介绍机上的两部雷达：着陆雷达（LR）和交会雷达（RR）。\r\n\r\n在着陆阶段及随后的交会阶段，LM使用雷达导航技术来确定距离和速度。每个阶段使用专门为该阶段设计的雷达。两部雷达均向宇航员和计算机提供相对于目标的位置和速度信息。在月球着陆期间，目标是月球表面；在交会期间，目标是指令舱。\r\n\r\n在本课程中，我们将学习如何操作它们。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

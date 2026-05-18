@@ -61,7 +61,7 @@
   "ID": "2e826541-5197-468a-958b-09107f3966be",
   "Title": "动力下降与月球着陆",
   "Description": "LM已与CSM分离，处于合适的月球下降轨道。需要规划动力下降，在静海着陆。",
-  "BriefingText": "简报\r\n\r\nPlan and perform a powered descent and landing.",
+  "BriefingText": "简报\r\n\r\n计划并执行动力下降和着陆。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

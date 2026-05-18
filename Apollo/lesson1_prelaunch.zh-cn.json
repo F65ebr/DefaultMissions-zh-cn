@@ -3950,7 +3950,7 @@
   "ID": "3ed9dbe4-fec4-4d04-b515-eae6c792f985",
   "Title": "第1课 - Pre-Launch",
   "Description": "欢迎来到Project Apollo！这艘航天器比Project Mercury和Project Gemini都更加先进和复杂，需要大量学习才能掌握。\n这些课程旨在让你对其系统有基本的了解。",
-  "BriefingText": "简报\r\n\r\nWelcome to Project Apollo, the most advanced spacecraft to-date. The spacecraft has many complex systems that work together to provide navigation and life-support for three astronauts for long-duration missions in space.\r\n\r\nDon't feel overwhelmed by the amount of switches and systems, it will all make sense in the end. And you will have access to checklists.\r\n\r\nThis lesson will teach you the final preparations before launch and the boost phase. We will go through the Computer and the systems needed for a safe ascent. However, the mission will end before the launch.",
+  "BriefingText": "简报\r\n\r\n欢迎来到阿波罗计划，这是迄今为止最先进的航天器。该航天器拥有许多复杂系统，协同工作为三名宇航员在太空中执行长期任务提供导航和生命支持。\r\n\r\n不要被大量的开关和系统吓倒，最终一切都会变得清晰。而且你随时可以使用检查清单。\r\n\r\n本课程将教你发射前的最后准备工作和助推阶段。我们将学习计算机和安全上升所需的系统。但任务将在发射前结束。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 100.0,

@@ -242,7 +242,7 @@
   "ID": "a50a9d39-b4bb-40dd-a183-bc0fa20272b7",
   "Title": "登月舱驾驶员认证飞行",
   "Description": "这是登月舱驾驶员认证飞行，完成后将授予你登月舱驾驶员证书。\n\n与其他考试一样，这是一次单飞，你需要在与任务控制中心保持最少通信的情况下完成所有必要任务。",
-  "BriefingText": "简报\r\n\r\nWelcome to the Lunar Module Pilot Certification Flight. Successful completion of this mission will result in the awarding of the Lunar Module Pilot Certificate.\r\n\nAs with the other exams, this is meant to be a solo flight where you perform all of the required tasks with minimal communication with Mission Control.\r\n\r\nThis mission will test your knowledge of preparing the Lunar Module for descent and completing all the 4 phases of a Lunar landing flight:\r\n- Phase 1: Preparation for powered descent\r\n- Phase 2: Powered descent, ignition should happen at around 15 km altitude.\r\n- Phase 3: Approach\r\n- Phase 4: Landing\r\n\r\n\r\n\r\n\r\nGood luck!",
+  "BriefingText": "简报\r\n\r\n欢迎参加登月舱飞行员认证飞行。成功完成此任务将获得登月舱飞行员证书。\r\n\r\n与其他考试一样，这是一次单人飞行，你需要在与任务控制中心最少通信的情况下完成所有必需任务。\r\n\r\n此任务将测试你准备登月舱下降和完成月球着陆飞行所有4个阶段的知识：\n- 阶段1：动力下降准备\n- 阶段2：动力下降，点火应在约15公里高度进行\n- 阶段3：进场\n- 阶段4：着陆\r\n\r\n祝你好运！",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

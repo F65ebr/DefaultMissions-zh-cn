@@ -61,7 +61,7 @@
   "ID": "3e937824-a502-4944-bdac-1fe38a6ac918",
   "Title": "跨地注入",
   "Description": "CSM在月球轨道上，即将开始规划跨地注入。",
-  "BriefingText": "简报\r\n\r\nPerform a TEI.",
+  "BriefingText": "简报\r\n\r\n执行地月转移入射（TEI）。",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 185.0,

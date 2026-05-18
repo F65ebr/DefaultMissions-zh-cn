@@ -1,5 +1,5 @@
 {
-  "BriefingText": "简报\r\n\r\nComplete the final approach during a Lunar Landing.",
+  "BriefingText": "简报\r\n\r\n在月球着陆期间完成最终进场。",
   "CommandModulePilot": "Lars",
   "Description": "欢迎来到NDC 2023的AIGONIX展台！\n\n在此挑战中，你需要将登月舱降落在静海（Sea of Tranquility）。将飞船降落到尽可能接近目标的软着陆。使用俯仰/偏航控制地面速度，使用ROD控制垂直速度。",
   "DisableDefaultAudioSFX": false,

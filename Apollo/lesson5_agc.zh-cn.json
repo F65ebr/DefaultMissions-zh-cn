@@ -1862,7 +1862,7 @@
   "ID": "6f950599-b292-4034-9bab-807f5c84948c",
   "Title": "第5课 - Apollo Guidance Computer",
   "Description": "Apollo Guidance Computer（AGC）是一台高度精密的数字控制计算机，用于Apollo航天器和Lunar Module上。它用于计算，并作为航天器制导、导航和控制的电子接口。",
-  "BriefingText": "简报\r\n\r\nWelcome to the Apollo Guidance Computer lesson!\r\nWe are currently on the launch pad, and will take an initial look a the digital computer onboard the Command Module.\r\n\r\nWe will first learn how it works, then use it to prepare the computer for boost. The next tutorial will go a bit deeper into the navigational aspects of it.\r\n\r\nGood luck!",
+  "BriefingText": "简报\r\n\r\n欢迎来到阿波罗制导计算机课程！\n我们目前位于发射台上，将初步了解指令舱上的数字计算机。\r\n\r\n我们将首先学习它的工作原理，然后使用它为助推准备计算机。下一个教程将更深入地探讨其导航方面。\r\n\r\n祝你好运！",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 180.0,
